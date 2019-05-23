@@ -1,0 +1,2 @@
+# SmartThingsPublic
+My Smartthings devices
